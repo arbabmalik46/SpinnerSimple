@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SpinnerSimple</string>
+    <string-array name="loc">
+        <item>Mall Road</item>
+        <item>Samnabad</item>
+        <item>Gulshan Ravi</item>
+        <item>Green Town</item>
+        <item>Wapda Town</item>
+        <item>Model Town</item>
+        <item>Johar Town</item>
+        <item>Raiwind Road</item>
+        <item>Emporium Mall</item>
+        <item>Jail Road</item>
+        <item>Punjab University</item>
+        <item>Mughalpura</item>
+        <item>Harbanspura</item>
+        <item>Gulberg</item>
+        <item>DHA</item>
+        <item>Cant</item>
+        <item>Muslim Town</item>
+        <item>College Road</item>
+        <item>Township</item>
+
+    </string-array>
+</resources>
